@@ -6,7 +6,7 @@ authors = ["Group04"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "3.9"
+python = "~3.9"
 torchgeo = "^0.4.1"
 tensorboard = "^2.13.0"
 
