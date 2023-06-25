@@ -6,13 +6,13 @@ authors = ["Group04"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.11"
+python = "3.9"
 torchgeo = "^0.4.1"
 tensorboard = "^2.13.0"
 
 [tool.poetry.group.dev.dependencies]
-black = "^23.3.0"
 ruff = "^0.0.275"
+black = "^23.3.0"
 
 [build-system]
 requires = ["poetry-core"]
