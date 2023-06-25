@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "land-price-estimator"
+version = "0.1.0"
+description = "A project to develop a model that predicts land price from a satellite image."
+authors = ["Group04"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+segmentation-models-pytorch = "^0.3.3"
+
+[tool.poetry.group.dev.dependencies]
+black = "^23.3.0"
+ruff = "^0.0.275"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
