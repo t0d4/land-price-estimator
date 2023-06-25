@@ -7,7 +7,8 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.11"
-segmentation-models-pytorch = "^0.3.3"
+torchgeo = "^0.4.1"
+tensorboard = "^2.13.0"
 
 [tool.poetry.group.dev.dependencies]
 black = "^23.3.0"
