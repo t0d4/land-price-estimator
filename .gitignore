@@ -1,6 +1,18 @@
 # Created by https://www.toptal.com/developers/gitignore/api/python
 # Edit at https://www.toptal.com/developers/gitignore?templates=python
 
+# My entries
+dataset/
+logs/
+# random test data
+*.png
+# ssh
+nohup.out
+# model checkpoints
+checkpoints/
+# unworking notebook
+\[FAILED\]*
+
 ### Python ###
 # Byte-compiled / optimized / DLL files
 __pycache__/
