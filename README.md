@@ -1,6 +1,8 @@
 # Development project of land price predictor
 
 This is a research project in "Advanced Pattern Recognition" course at Waseda University.
+Please have a look at [our presentation slides](https://docs.google.com/presentation/d/1ES83LWEMLCCrgeAkCpD9SoQUxrxuLRViNE9mzScT_w4/edit?usp=sharing)
+to know backgrounds, motivations, methods, results, discussions of this project.
 
 **Try Demo In Colab Now**
 
